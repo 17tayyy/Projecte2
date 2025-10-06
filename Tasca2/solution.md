@@ -39,4 +39,4 @@
 
 - **Selecció:** **Eaton 5P 1550VA**  
 - **Justificació:** Combina **potència suficient**, **autonomia adequada** i **fiabilitat professional**.  
-
+![SAI](./img/sai.png)
