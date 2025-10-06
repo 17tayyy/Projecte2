@@ -65,6 +65,9 @@
 **Proposta:** Revista digital sobre l’art de col·leccionar taps de suro  
 **Propostes de nom:** CorkMag, TapArt, RevistaDelSuro  
 
+### Validació del ChatGPT
+
+
 ### Checklist resumida
 
 | Nom             | Puntuació | Comentari                        |
