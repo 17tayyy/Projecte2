@@ -9,7 +9,6 @@ Hem creat un repositori amb diferents carpetes, fitxers i imatges per practicar 
 
 A continuació es mostren les captures del procés:
 
-![Captura del repositori creat](./img/captura1.png)
-![Arbre de carpetes del projecte](./img/captura2.png)
+![Captura del repositori creat](./img/bitcoin.jpeg)
 
 *(Les imatges estan en format PNG i amb una mida optimitzada per a una lectura còmoda.)*
